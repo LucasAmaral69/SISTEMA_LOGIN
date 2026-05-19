@@ -1,2 +1,2 @@
 # SISTEMA_LOGIN
-sistema simples de login usando hhtml,cs
+sistema simples de login usando html, css e js
